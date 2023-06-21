@@ -1,3 +1,3 @@
 # sna-kc
-Hate Speech Detection
-Mapping social network discourse at various occuring social and political flashpoints.
+Hate Speech Twitter Analysis
+Social network and cluster analysis of social network discourse on twitter following specific social and political flashpoints: #Senekal, #Brackenfell, #PutSAFirst, #OperationDudula 
