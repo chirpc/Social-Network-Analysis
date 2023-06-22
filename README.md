@@ -1,3 +1,2 @@
-# sna-kc
-Hate Speech Twitter Analysis
-Social network and cluster analysis of social network discourse on twitter following specific social and political flashpoints: #Senekal, #Brackenfell, #PutSAFirst, #OperationDudula 
+
+Social network analysis and sentiment analysis using twitter data of discourse surrounding social and political flashpoints: #Senekal, #Brackenfell, #PutSAFirst, #OperationDudula. 
